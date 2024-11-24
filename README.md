@@ -16,7 +16,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Installation
 ```bash
 # 1. Clone the repository to your local machine:
-git clone https://github.com/yourusername/RelaxingGO.git
+git clone https://github.com/PEY0413/RelaxingGO.git
 
 # 2. Navigate to the project directory:
 cd RelaxingGO
